@@ -4,6 +4,7 @@
 #define MAX 10
 int count =0;
 // MADE THE STRUCTURE OF STACK
+// NITESH KUMAR
 struct stack
 {
 	int item[MAX];
